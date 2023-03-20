@@ -1,0 +1,18 @@
+{
+    "editor.codeActionsOnSave": {
+    
+    },
+
+    "workbench.colorCustomizations" : {
+        "terminal.foreground" : "#f900fd",
+        "terminal.background" : "#000000",
+        "debugConsole.infoForeground": "#00aeff",
+        
+    },
+    "typescript.tsserver.watchOptions": {
+
+
+    
+    }
+    
+}
